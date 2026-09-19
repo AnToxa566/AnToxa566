@@ -4,6 +4,6 @@ Hi, I am Anton — a **Full Stack Engineer**. <img align=center src="https://use
 
 ## Get in touch <img  align=center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" />
 
-+ [LinkedIn](https://www.linkedin.com/in/anton-bohachuk-a7811a170/)
++ [LinkedIn](https://www.linkedin.com/in/anton-bohachuk/)
 + [Telegram](https://t.me/Antonio_Bog)
-+ [Personal site](https://ab-resume.vercel.app/)
++ [Personal site](https://anton-bohachuk.dev/)
