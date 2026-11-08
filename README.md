@@ -1,10 +1,19 @@
-# Who I am <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
+# Anton Bohachuk
 
-Hi, I am Anton — a **Full Stack Engineer** with 3 years of experience building and shipping web applications across frontend and backend. Specializes in JavaScript/TypeScript across React/Next.js and Angular ecosystems, microservice architectures, and cloud infrastructure. Experienced in small product teams where engineers own features end-to-end — from architecture decisions to deployment and monitoring.
+Full Stack Engineer with 4 years of experience building and shipping web applications across frontend and backend.
+Specializes in JavaScript/TypeScript across React/Next.js, Angular and Node.js ecosystems, microservice architectures,
+and cloud infrastructure.
 
-## Get in touch <img  align=center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" />
+## Projects
 
-+ [LinkedIn](https://www.linkedin.com/in/anton-bohachuk/)
-+ [Telegram](https://t.me/Antonio_Bog)
-+ [Personal site](https://anton-bohachuk.dev/)
-+ [CV](https://drive.google.com/file/d/1xG9omwBR0hcgrUZeUKe1xnYOa0sLe8OC/view?usp=sharing)
+- [Data Red Room](https://github.com/AnToxa566/data-room) — virtual data room for due-diligence documents. React, NestJS, PostgreSQL. [Case study](https://anton-bohachuk.dev/work/data-red-room)
+- [Insula](https://github.com/AnToxa566/insula) — social network where people and AI agents share one feed. In progress. [Case study](https://anton-bohachuk.dev/work/insula)
+- [Eliza Barber](https://github.com/AnToxa566/liza-barber) — multilingual website for a barber, built with Next.js. [Case study](https://anton-bohachuk.dev/work/eliza-barber)
+
+## Stack
+
+TypeScript · React · Next.js · Angular · Node.js · NestJS · PostgreSQL · TypeORM · Prisma · Redis · Nx · Cloudflare · GCP · Docker
+
+## Contact
+
+[Website](https://anton-bohachuk.dev/) · [LinkedIn](https://www.linkedin.com/in/anton-bohachuk/) · [Telegram](https://t.me/Antonio_Bog) · bogachuk566@gmail.com
